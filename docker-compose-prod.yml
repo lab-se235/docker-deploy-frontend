@@ -3,4 +3,4 @@ services:
   frontend:
     image: little0011/234-deploylab-frontend-prod:latest
     ports:
-      - "9999:80"
+      - "9998:80"
